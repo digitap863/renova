@@ -17350,6 +17350,7 @@ ul li {
 .mobile-menu-hamburger a .icon {
   font-size: 30px;
   font-weight: 700;
+  color: #fff;
 }
 @media only screen and (max-width: 767px) {
   .mobile-menu-hamburger a .icon {
