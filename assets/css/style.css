@@ -16723,8 +16723,8 @@ ul li {
 
 /* Section Spacing */
 .section-padding {
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-padding {
@@ -17461,6 +17461,11 @@ ul li {
   color: #fff;
   font-family: "Poppins", sans-serif;
 }
+
+.hero-slide-content .sub_title {
+  font-size: 60px;
+  }
+
 @media only screen and (min-width: 1200px) and (max-width: 1599px), only screen and (min-width: 992px) and (max-width: 1199px) {
   .hero-slide-content .subtitle {
     margin-bottom: 20px;
@@ -17476,6 +17481,9 @@ ul li {
     font-size: 18px;
     margin-bottom: 20px;
   }
+  .hero-slide-content .sub_title {
+    font-size: 26px;
+  }
 }
 .hero-slide-content .title {
   font-size: 130px;
@@ -17485,7 +17493,10 @@ ul li {
   margin-bottom: 50px;
   letter-spacing: -0.25px;
   text-transform: capitalize;
+  font-family: 'Montserrat', sans-serif;
 }
+
+
 @media only screen and (min-width: 1200px) and (max-width: 1599px), only screen and (min-width: 992px) and (max-width: 1199px) {
   .hero-slide-content .title {
     font-size: 95px;
@@ -18890,8 +18901,9 @@ ul li {
   color: #000000;
   font-weight: 600;
   line-height: 0.8;
-  font-size: 72px;
+  font-size: 62px;
   margin-bottom: 25px;
+  font-family: 'Montserrat', sans-serif;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .breadcrumb-wrapper .title {
