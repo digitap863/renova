@@ -19612,7 +19612,7 @@ ul li {
   color: #666666;
   font-size: 14px;
   line-height: 1.9em;
-  margin-top: 28px;
+  /* margin-top: 28px; */
   padding-right: 20px;
   margin-bottom: 35px;
 }
