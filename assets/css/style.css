@@ -19543,7 +19543,7 @@ ul li {
           flex: 0 0 auto;
   width: 33.33333%;
   position: relative;
-  padding: 55px 70px 25px 55px;
+  padding: 25px 30px 25px 35px;
   background-color: #f7f7f7;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -19614,7 +19614,7 @@ ul li {
   line-height: 1.9em;
   /* margin-top: 28px; */
   padding-right: 20px;
-  margin-bottom: 35px;
+  /* margin-bottom: 35px; */
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .single-blog-wrap .inner-content p {
